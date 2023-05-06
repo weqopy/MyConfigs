@@ -1,0 +1,14 @@
+[user]
+	name = weqopy
+	email = weqopy@gmail.com
+[commit]
+	gpgsign = true
+[init]
+	defaultBranch = main
+[core]
+	excludesfile = ~/.gitignore
+[pull]
+	ff = only
+# [includeIf "gitdir:~/projects/"]
+#     path = ~/projects/work.gitconfig
+
